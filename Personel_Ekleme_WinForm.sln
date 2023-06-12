@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personel_Ekleme_WinForm", "Personel_Ekleme_WinForm\Personel_Ekleme_WinForm.csproj", "{A3651E54-15EB-4A70-9A58-7C99FA6D3F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3651E54-15EB-4A70-9A58-7C99FA6D3F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3651E54-15EB-4A70-9A58-7C99FA6D3F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3651E54-15EB-4A70-9A58-7C99FA6D3F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3651E54-15EB-4A70-9A58-7C99FA6D3F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C1D0F2-B957-4F74-8537-210728E63543}
+	EndGlobalSection
+EndGlobal
